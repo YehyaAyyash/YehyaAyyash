@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/yehya-ayyash-44191a15b">
+  <a href="https://linkedin.com/in/yehya-ayyash-44191a15b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:yahyarizwan2001@gmail.com">
